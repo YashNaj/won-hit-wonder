@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "activeProfile": "minimal"
+  },
+  "SessionStart": [
+    {
+      "event": "SessionStart",
+      "script": "session-start.js",
+      "command": "node .claude/hooks/scripts/run-with-flags.js session-start.js",
+      "profiles": [
+        "minimal",
+        "standard",
+        "strict"
+      ]
+    }
+  ],
+  "PostToolUse": [
+    {
+      "event": "PostToolUse",
+      "pattern": "Edit|Write",
+      "script": "post-edit-format.js",
+      "command": "node .claude/hooks/scripts/run-with-flags.js post-edit-format.js",
+      "profiles": [
+        "minimal",
+        "standard",
+        "strict"
+      ]
+    },
+    {
+      "event": "PostToolUse",
+      "pattern": "Agent",
+      "script": "dashboard-event.js",
+      "command": "node .claude/hooks/scripts/run-with-flags.js dashboard-event.js",
+      "profiles": [
+        "minimal",
+        "standard",
+        "strict"
+      ]
+    }
+  ],
+  "PreToolUse": [
+    {
+      "event": "PreToolUse",
+      "pattern": "Agent",
+      "script": "dashboard-event.js",
+      "command": "node .claude/hooks/scripts/run-with-flags.js dashboard-event.js",
+      "profiles": [
+        "minimal",
+        "standard",
+        "strict"
+      ]
+    }
+  ],
+  "Stop": [
+    {
+      "event": "Stop",
+      "script": "continuous-learning-observer.js",
+      "command": "node .claude/hooks/scripts/run-with-flags.js continuous-learning-observer.js",
+      "profiles": [
+        "minimal",
+        "standard",
+        "strict"
+      ]
+    }
+  ]
+}

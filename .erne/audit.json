@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "project": "won-hit-wonder",
+  "date": "2026-04-14T19:28:34.096Z",
+  "score": 0,
+  "strengths": [],
+  "findings": [],
+  "stack": {
+    "state": "none",
+    "serverState": "none",
+    "navigation": "none",
+    "styling": "stylesheet",
+    "lists": "flatlist",
+    "images": "rn-image",
+    "forms": "none",
+    "storage": "async-storage",
+    "testing": "none",
+    "build": "manual"
+  },
+  "meta": {
+    "framework": "unknown",
+    "typescript": false,
+    "newArch": false,
+    "monorepo": false
+  }
+}

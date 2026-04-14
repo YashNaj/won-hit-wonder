@@ -1,0 +1,37 @@
+{
+  "erneVersion": "0.13.6",
+  "detection": {
+    "isRNProject": false,
+    "framework": "unknown",
+    "stack": {
+      "state": "none",
+      "serverState": "none",
+      "navigation": "none",
+      "styling": "stylesheet",
+      "lists": "flatlist",
+      "images": "rn-image",
+      "forms": "none",
+      "storage": "async-storage",
+      "testing": "none",
+      "build": "manual"
+    },
+    "hasMonorepo": false,
+    "monorepo": null,
+    "hasNewArch": false,
+    "hasTypescript": false,
+    "existingClaudeMd": false,
+    "componentStyle": "functional"
+  },
+  "profile": "minimal",
+  "ruleLayers": [
+    "common"
+  ],
+  "mcpSelections": [
+    "agent-device",
+    "github",
+    "supabase",
+    "figma",
+    "sentry"
+  ],
+  "generatedAt": "2026-04-14T19:28:34.094Z"
+}
