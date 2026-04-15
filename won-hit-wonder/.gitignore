@@ -31,9 +31,10 @@ yarn-error.*
 *.pem
 
 # local env files
-.env
-.env.*
-!.env.example
+# .env
+# .env.*
+# !.env.example
+# We are ignoring this for the purpose of making env variables available for preview.
 
 # typescript
 *.tsbuildinfo
