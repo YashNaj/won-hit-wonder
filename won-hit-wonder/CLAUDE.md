@@ -10,7 +10,7 @@
 - **Styling**: StyleSheet.create
 - **Lists**: FlatList (built-in)
 - **Images**: expo-image
-- **Testing**: None configured
+- **Testing**: Jest + React Native Testing Library
 - **Build**: Manual
 
 ## Key Rules

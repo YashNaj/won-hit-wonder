@@ -1,0 +1,381 @@
+{
+  "lastScanned": "2026-04-14T21:06:10.166Z",
+  "packages": [
+    {
+      "name": "expo",
+      "current": "54.0.33",
+      "latest": "55.0.15",
+      "bump": "major",
+      "risk": 5,
+      "riskFactors": [
+        "major bump",
+        "core dependency"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "@react-native-async-storage/async-storage",
+      "current": "2.2.0",
+      "latest": "3.0.2",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/@react-native-async-storage/async-storage?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-blur",
+      "current": "15.0.8",
+      "latest": "55.0.14",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-blur?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-constants",
+      "current": "18.0.13",
+      "latest": "55.0.14",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-constants?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-font",
+      "current": "14.0.11",
+      "latest": "55.0.6",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-font?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-haptics",
+      "current": "15.0.8",
+      "latest": "55.0.14",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-haptics?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-image",
+      "current": "3.0.11",
+      "latest": "55.0.8",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-image?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-linear-gradient",
+      "current": "15.0.8",
+      "latest": "55.0.13",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-linear-gradient?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-linking",
+      "current": "8.0.11",
+      "latest": "55.0.13",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-linking?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-router",
+      "current": "6.0.23",
+      "latest": "55.0.12",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-router?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-secure-store",
+      "current": "15.0.8",
+      "latest": "55.0.13",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-secure-store?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-splash-screen",
+      "current": "31.0.13",
+      "latest": "55.0.18",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-splash-screen?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-status-bar",
+      "current": "3.0.9",
+      "latest": "55.0.5",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-status-bar?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-symbols",
+      "current": "1.0.8",
+      "latest": "55.0.7",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-symbols?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-system-ui",
+      "current": "6.0.9",
+      "latest": "55.0.15",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-system-ui?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "expo-web-browser",
+      "current": "15.0.10",
+      "latest": "55.0.14",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/expo-web-browser?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "jest",
+      "current": "29.7.0",
+      "latest": "30.3.0",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/jest?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "jest-expo",
+      "current": "54.0.17",
+      "latest": "55.0.16",
+      "bump": "major",
+      "risk": 4,
+      "riskFactors": [
+        "major bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/jest-expo?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react",
+      "current": "19.1.0",
+      "latest": "19.2.5",
+      "bump": "minor",
+      "risk": 3,
+      "riskFactors": [
+        "minor bump",
+        "core dependency"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-dom",
+      "current": "19.1.0",
+      "latest": "19.2.5",
+      "bump": "minor",
+      "risk": 3,
+      "riskFactors": [
+        "minor bump",
+        "core dependency"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-dom?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native",
+      "current": "0.81.5",
+      "latest": "0.85.1",
+      "bump": "minor",
+      "risk": 3,
+      "riskFactors": [
+        "minor bump",
+        "core dependency"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "@expo/vector-icons",
+      "current": "15.0.3",
+      "latest": "15.1.1",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/@expo/vector-icons?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "@react-navigation/bottom-tabs",
+      "current": "7.4.0",
+      "latest": "7.15.9",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/@react-navigation/bottom-tabs?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "@react-navigation/elements",
+      "current": "2.6.3",
+      "latest": "2.9.14",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/@react-navigation/elements?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "@react-navigation/native",
+      "current": "7.1.8",
+      "latest": "7.2.2",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/@react-navigation/native?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-gesture-handler",
+      "current": "2.28.0",
+      "latest": "2.31.1",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-gesture-handler?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-reanimated",
+      "current": "4.1.1",
+      "latest": "4.3.0",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-reanimated?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-safe-area-context",
+      "current": "5.6.0",
+      "latest": "5.7.0",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-safe-area-context?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-screens",
+      "current": "4.16.0",
+      "latest": "4.24.0",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-screens?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-worklets",
+      "current": "0.5.1",
+      "latest": "0.8.1",
+      "bump": "minor",
+      "risk": 2,
+      "riskFactors": [
+        "minor bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-worklets?activeTab=versions",
+      "publishedAt": null
+    },
+    {
+      "name": "react-native-web",
+      "current": "0.21.0",
+      "latest": "0.21.2",
+      "bump": "patch",
+      "risk": 1,
+      "riskFactors": [
+        "patch bump"
+      ],
+      "changelogUrl": "https://www.npmjs.com/package/react-native-web?activeTab=versions",
+      "publishedAt": null
+    }
+  ]
+}

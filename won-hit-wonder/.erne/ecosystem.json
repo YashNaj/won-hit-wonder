@@ -1,0 +1,245 @@
+{
+  "fetchedAt": "2026-04-14T19:33:21.833Z",
+  "items": [
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native-gesture-handler",
+      "repo": "software-mansion/react-native-gesture-handler",
+      "title": "v2.31.1",
+      "summary": "## ❗ Important changes\r",
+      "version": {
+        "current": null,
+        "latest": "2.31.1"
+      },
+      "url": "https://github.com/software-mansion/react-native-gesture-handler/releases/tag/v2.31.1",
+      "timestamp": "2026-04-10T13:56:44Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "zustand",
+      "repo": "pmndrs/zustand",
+      "title": "v5.0.12",
+      "summary": "Two small fixes.\r",
+      "version": {
+        "current": null,
+        "latest": "5.0.12"
+      },
+      "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.12",
+      "timestamp": "2026-03-16T02:43:26Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@gorhom/bottom-sheet",
+      "repo": "gorhom/react-native-bottom-sheet",
+      "title": "Release 5.2.9",
+      "summary": "## [5.2.9](https://github.com/gorhom/react-native-bottom-sheet/compare/v5.2.8...v5.2.9) (2026-04-08)",
+      "version": {
+        "current": null,
+        "latest": "5.2.9"
+      },
+      "url": "https://github.com/gorhom/react-native-bottom-sheet/releases/tag/v5.2.9",
+      "timestamp": "2026-04-08T21:34:47Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@reduxjs/toolkit",
+      "repo": "reduxjs/redux-toolkit",
+      "title": "v2.11.2",
+      "summary": "This **bugfix release** updates the `AbortSignal` handling to fall back if `DOMException` isn't available (such as RN en",
+      "version": {
+        "current": null,
+        "latest": "2.11.2"
+      },
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.11.2",
+      "timestamp": "2025-12-14T22:04:33Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@react-navigation/native",
+      "repo": "react-navigation/react-navigation",
+      "title": "@react-navigation/native-stack@7.14.11",
+      "summary": "## [7.14.11](https://github.com/react-navigation/react-navigation/compare/@react-navigation/native-stack@7.14.10...@reac",
+      "version": {
+        "current": null,
+        "latest": "@react-navigation/native-stack@7.14.11"
+      },
+      "url": "https://github.com/react-navigation/react-navigation/releases/tag/%40react-navigation/native-stack%407.14.11",
+      "timestamp": "2026-04-13T23:03:44Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native-screens",
+      "repo": "software-mansion/react-native-screens",
+      "title": "4.24.0",
+      "summary": "## What's Changed\r",
+      "version": {
+        "current": null,
+        "latest": "4.24.0"
+      },
+      "url": "https://github.com/software-mansion/react-native-screens/releases/tag/4.24.0",
+      "timestamp": "2026-02-24T09:22:29Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "nativewind",
+      "repo": "nativewind/nativewind",
+      "title": "nativewind@4.2.3",
+      "summary": "### Patch Changes",
+      "version": {
+        "current": null,
+        "latest": "nativewind@4.2.3"
+      },
+      "url": "https://github.com/nativewind/nativewind/releases/tag/nativewind%404.2.3",
+      "timestamp": "2026-03-15T06:26:52Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@gluestack-ui/themed",
+      "repo": "gluestack/gluestack-ui",
+      "title": "🚀 gluestack-ui v5 (Alpha)",
+      "summary": "We’re excited to announce the **alpha release of gluestack-ui v5**, introducing a new architecture powered by **NativeWi",
+      "version": {
+        "current": null,
+        "latest": "5.0.0-alpha.0"
+      },
+      "url": "https://github.com/gluestack/gluestack-ui/releases/tag/v5.0.0-alpha.0",
+      "timestamp": "2026-03-16T04:49:41Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-hook-form",
+      "repo": "react-hook-form/react-hook-form",
+      "title": "Version 7.72.1",
+      "summary": "🐞 fix: add isDirty check for numeric string keys in defaultValues (issue #13346) (#13347)\r",
+      "version": {
+        "current": null,
+        "latest": "7.72.1"
+      },
+      "url": "https://github.com/react-hook-form/react-hook-form/releases/tag/v7.72.1",
+      "timestamp": "2026-04-03T06:52:50Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native-vision-camera",
+      "repo": "mrousavy/react-native-vision-camera",
+      "title": "Release 4.7.3",
+      "summary": "## [4.7.3](https://github.com/mrousavy/react-native-vision-camera/compare/v4.7.2...v4.7.3) (2025-11-12)",
+      "version": {
+        "current": null,
+        "latest": "4.7.3"
+      },
+      "url": "https://github.com/mrousavy/react-native-vision-camera/releases/tag/v4.7.3",
+      "timestamp": "2025-11-12T21:56:34Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native-reanimated",
+      "repo": "software-mansion/react-native-reanimated",
+      "title": "Reanimated - 4.3.0",
+      "summary": "## Key changes\r",
+      "version": {
+        "current": null,
+        "latest": "4.3.0"
+      },
+      "url": "https://github.com/software-mansion/react-native-reanimated/releases/tag/4.3.0",
+      "timestamp": "2026-03-25T16:59:37Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "SEC",
+      "package": "axios",
+      "repo": "axios/axios",
+      "title": "v1.15.0",
+      "summary": "This release delivers two critical security patches, adds runtime support for Deno and Bun, and includes significant CI ",
+      "version": {
+        "current": null,
+        "latest": "1.15.0"
+      },
+      "url": "https://github.com/axios/axios/releases/tag/v1.15.0",
+      "timestamp": "2026-04-07T16:09:08Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native",
+      "repo": "facebook/react-native",
+      "title": "0.85.1",
+      "summary": "---\r",
+      "version": {
+        "current": null,
+        "latest": "0.85.1"
+      },
+      "url": "https://github.com/facebook/react-native/releases/tag/v0.85.1",
+      "timestamp": "2026-04-13T21:21:35Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@supabase/supabase-js",
+      "repo": "supabase/supabase-js",
+      "title": "v2.103.0",
+      "summary": "## 2.103.0 (2026-04-09)",
+      "version": {
+        "current": null,
+        "latest": "2.103.0"
+      },
+      "url": "https://github.com/supabase/supabase-js/releases/tag/v2.103.0",
+      "timestamp": "2026-04-09T06:57:09Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "react-native-vector-icons",
+      "repo": "oblador/react-native-vector-icons",
+      "title": "generator-react-native-vector-icons@13.1.0",
+      "summary": "## 13.1.0 (2026-04-12)",
+      "version": {
+        "current": null,
+        "latest": "generator-react-native-vector-icons@13.1.0"
+      },
+      "url": "https://github.com/oblador/react-native-vector-icons/releases/tag/generator-react-native-vector-icons%4013.1.0",
+      "timestamp": "2026-04-12T17:18:54Z",
+      "relevance": 0
+    },
+    {
+      "type": "release",
+      "tag": "NEW",
+      "package": "@shopify/flash-list",
+      "repo": "Shopify/flash-list",
+      "title": "v2.3.1",
+      "summary": "## What's Changed\r",
+      "version": {
+        "current": null,
+        "latest": "2.3.1"
+      },
+      "url": "https://github.com/Shopify/flash-list/releases/tag/v2.3.1",
+      "timestamp": "2026-03-23T19:01:19Z",
+      "relevance": 0
+    }
+  ]
+}

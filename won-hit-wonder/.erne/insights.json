@@ -1,0 +1,36 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-04-14",
+      "auditScore": 84,
+      "dependencies": {
+        "total": 27,
+        "outdated": 27,
+        "major": 14,
+        "security": 0
+      },
+      "agents": {
+        "tasksCompleted": 0,
+        "totalWorkTimeMs": 0,
+        "mostUsed": null
+      },
+      "codeHealth": {}
+    },
+    {
+      "date": "2026-04-15",
+      "auditScore": 32,
+      "dependencies": {
+        "total": 31,
+        "outdated": 31,
+        "major": 18,
+        "security": 0
+      },
+      "agents": {
+        "tasksCompleted": 0,
+        "totalWorkTimeMs": 0,
+        "mostUsed": null
+      },
+      "codeHealth": {}
+    }
+  ]
+}

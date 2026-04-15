@@ -1,8 +1,8 @@
 {
   "version": 1,
   "project": "won-hit-wonder",
-  "date": "2026-04-14T19:29:26.233Z",
-  "score": 74,
+  "date": "2026-04-14T19:31:44.298Z",
+  "score": 84,
   "strengths": [
     {
       "category": "Security",
@@ -33,8 +33,12 @@
       "title": "Navigation: expo-router"
     },
     {
+      "category": "Testing",
+      "title": "React Native Testing Library configured"
+    },
+    {
       "category": "Dependencies",
-      "title": "Reasonable dependency count (25 packages)"
+      "title": "Reasonable dependency count (28 packages)"
     },
     {
       "category": "Dependencies",
@@ -153,11 +157,11 @@
       "fix": "Add an ErrorBoundary component wrapping your root navigator"
     },
     {
-      "severity": "critical",
+      "severity": "warning",
       "category": "Testing",
       "title": "No test files detected",
-      "detail": "No testing framework or tests found.",
-      "fix": "npx expo install jest @testing-library/react-native jest-expo"
+      "detail": "Testing library installed but no tests written.",
+      "fix": "Create __tests__/ directory and add component tests"
     },
     {
       "severity": "info",
@@ -197,7 +201,7 @@
     "images": "expo-image",
     "forms": "none",
     "storage": "async-storage",
-    "testing": "none",
+    "testing": "jest-rntl",
     "build": "manual"
   },
   "meta": {

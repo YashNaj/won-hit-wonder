@@ -12,14 +12,14 @@
       "images": "expo-image",
       "forms": "none",
       "storage": "async-storage",
-      "testing": "none",
+      "testing": "jest-rntl",
       "build": "manual"
     },
     "hasMonorepo": false,
     "monorepo": null,
     "hasNewArch": true,
     "hasTypescript": true,
-    "existingClaudeMd": false,
+    "existingClaudeMd": true,
     "componentStyle": "functional"
   },
   "profile": "standard",
@@ -34,5 +34,5 @@
     "figma",
     "sentry"
   ],
-  "generatedAt": "2026-04-14T19:29:26.215Z"
+  "generatedAt": "2026-04-14T19:31:44.284Z"
 }

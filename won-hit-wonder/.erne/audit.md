@@ -1,10 +1,10 @@
 # ERNE Project Audit — won-hit-wonder
 
-**Score: 74/100 (B)** | Date: 2026-04-14
+**Score: 84/100 (A)** | Date: 2026-04-14
 
 ---
 
-## Strengths (33)
+## Strengths (34)
 
 - No hardcoded secrets detected in source
 - Reanimated available for UI thread animations
@@ -13,7 +13,8 @@
 - TypeScript enabled
 - TypeScript strict mode enabled
 - Navigation: expo-router
-- Reasonable dependency count (25 packages)
+- React Native Testing Library configured
+- Reasonable dependency count (28 packages)
 - Lock file present for reproducible builds
 - New Architecture enabled
 - Modern Expo SDK (54)
@@ -40,18 +41,11 @@
 - 1 platform-specific file(s) found
 - 3/4 code quality tools configured (ESLint, RN lint rules, TS strict)
 
-## Critical Issues (1)
-
-### No test files detected
-
-No testing framework or tests found.
-
-**Fix:** `npx expo install jest @testing-library/react-native jest-expo`
-
-## Warnings (3)
+## Warnings (4)
 
 - **Using FlatList instead of FlashList** — FlashList provides significantly better performance for large lists (100+ items). Fix: `npm install @shopify/flash-list`
 - **No error boundary detected** — App crashes will show white screen instead of graceful error UI. Fix: `Add an ErrorBoundary component wrapping your root navigator`
+- **No test files detected** — Testing library installed but no tests written. Fix: `Create __tests__/ directory and add component tests`
 - **1 platform-specific file(s) missing counterpart** — components/ui/icon-symbol.ios.tsx (missing .android. counterpart) Fix: `Create matching platform-specific files or consolidate to shared implementation`
 
 ## Suggestions (3)
@@ -69,7 +63,7 @@ No testing framework or tests found.
 | Navigation | expo-router |
 | Styling | stylesheet |
 | Lists | flatlist |
-| Testing | none |
+| Testing | jest-rntl |
 | TypeScript | Yes |
 | New Arch | Yes |
 
